@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
-import Timer from './timer';
-import Buttons from './buttons';
-import Lap from './lap';
+import Timer from './components/timer';
+import Buttons from './components/buttons';
+import Lap from './components/lap';
 import LapList from './containers/lap_list';
 
 
